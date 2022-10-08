@@ -11,4 +11,4 @@ Iremos utilizar o Teams e suas funcionalidades porém irei centralizar os conte�
 CONTEUDO | DESCRÇÃO
 -- | --
 [1. Configuração de Ambiente](ambiente/configuracao_ambiente.md) | Instruções para configuração de ambiente em ambiente Windows
-[2. Repositório de Projetos Utilizados em sala de aula]()| Descrção do projeto realizado serão atualizadas à cada aula
+[2. Repositório Aula 02 - Tipos de Dados](https://github.com/f290SI/dart_application_acf_tipos_de_dados)| Introdução à tipos de dados em Dart
